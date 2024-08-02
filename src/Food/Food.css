@@ -1,0 +1,6 @@
+.list {
+  justify-content: space-around;
+}
+.recipe-card:hover {
+  border: 2px solid black;
+}
